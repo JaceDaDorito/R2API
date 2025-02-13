@@ -17,6 +17,17 @@ A lot of documentation is in the included xmldocs, and further information may b
 Do not hesitate to ask in [the modding discord](https://discord.gg/5MbXZvd) too!
 
 ## Changelog
+### '5.1.4'
+* Fixed CompressedFlagArrayUtilities.RemoveImmutable.
+
+### '5.1.4'
+* Fixed CompressedFlagArrayUtilities.AddImmutable.
+
+### '5.1.3'
+* Added methods for immutable Array operation to CompressedFlagArrayUtilities
+
+### '5.1.2'
+* Fix SystemInitializerInjector
 
 ### '5.1.1'
 * Initial fixes for SOTS DLC2 Release.
